@@ -67,3 +67,5 @@ https://drive.google.com/file/d/1iZcqTHf1mvtJXlSmmfbTFUFEDOjKIqH4/view
 <img src="./assets/teamProfileGenerator.png" />
 
 # Deployment Links
+
+https://marlajane.github.io/team-profile-generator/
