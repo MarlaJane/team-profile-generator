@@ -63,6 +63,7 @@ jest*
 https://drive.google.com/file/d/1iZcqTHf1mvtJXlSmmfbTFUFEDOjKIqH4/view
 
 # Screenshot
+
 <img src="./assets/teamProfileGenerator.png" />
 
 # Deployment Links
